@@ -32,7 +32,6 @@ h6 {
 h1 {
   font-size: 70px;
 }
-.heart-beat{-webkit-animation:heart-beat 2s ease infinite;animation:heart-beat 2s ease infinite;color:#ff3932!important}@-webkit-keyframes heart-beat{0%{-webkit-transform:scale(1);transform:scale(1)}5%{-webkit-transform:scale(1.25);transform:scale(1.25)}20%{-webkit-transform:scale(1);transform:scale(1)}30%{-webkit-transform:scale(1);transform:scale(1)}35%{-webkit-transform:scale(1.25);transform:scale(1.25)}50%{-webkit-transform:scale(1);transform:scale(1)}55%{-webkit-transform:scale(1.25);transform:scale(1.25)}70%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes heart-beat{0%{-webkit-transform:scale(1);transform:scale(1)}5%{-webkit-transform:scale(1.25);transform:scale(1.25)}20%{-webkit-transform:scale(1);transform:scale(1)}30%{-webkit-transform:scale(1);transform:scale(1)}35%{-webkit-transform:scale(1.25);transform:scale(1.25)}50%{-webkit-transform:scale(1);transform:scale(1)}55%{-webkit-transform:scale(1.25);transform:scale(1.25)}70%{-webkit-transform:scale(1);transform:scale(1)}}@media(min-width:1920px){body{font-size:15px}
 
 h2 {
   font-size: 36px;
@@ -2001,3 +2000,4 @@ blockquote {
   float: right;
   margin-left: 1em !important;
 }
+.heart-beat{-webkit-animation:heart-beat 2s ease infinite;animation:heart-beat 2s ease infinite;color:#ff3932!important}@-webkit-keyframes heart-beat{0%{-webkit-transform:scale(1);transform:scale(1)}5%{-webkit-transform:scale(1.25);transform:scale(1.25)}20%{-webkit-transform:scale(1);transform:scale(1)}30%{-webkit-transform:scale(1);transform:scale(1)}35%{-webkit-transform:scale(1.25);transform:scale(1.25)}50%{-webkit-transform:scale(1);transform:scale(1)}55%{-webkit-transform:scale(1.25);transform:scale(1.25)}70%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes heart-beat{0%{-webkit-transform:scale(1);transform:scale(1)}5%{-webkit-transform:scale(1.25);transform:scale(1.25)}20%{-webkit-transform:scale(1);transform:scale(1)}30%{-webkit-transform:scale(1);transform:scale(1)}35%{-webkit-transform:scale(1.25);transform:scale(1.25)}50%{-webkit-transform:scale(1);transform:scale(1)}55%{-webkit-transform:scale(1.25);transform:scale(1.25)}70%{-webkit-transform:scale(1);transform:scale(1)}}@media(min-width:1920px){body{font-size:15px}
